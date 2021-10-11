@@ -4,9 +4,9 @@ HAHAHA
 Now,It isn't your smart car .
 It is my computer language homework. 
 
-HAHAHAHAHAHAHAHAHAHAHA
+HAHAHAHAHAHAHAHAHAHAHA.
 
-![image](https://github.com/smartCarLab/smartCar/blob/master/I WAS HERE.png?raw=true)
+![image](https://github.com/smartCarLab/smartCar/blob/master/I_WAS_HERE.png?raw=true)
 
 ![image](https://github.com/smartCarLab/smartCar/blob/master/image/SMILE.png?raw=true)
 
